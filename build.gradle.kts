@@ -1,4 +1,4 @@
 allprojects {
     group = "com.lunari"
-    version = "1.3.31"
+    version = "0.0.1-SNAPSHOT"
 }
